@@ -1,0 +1,11 @@
+# Repository--APCI-1301154313-IF39-05
+ #APCI-1301154313-IF39-05
+            Teaser DAP
+            Program sederhana menggunakan bahasa pemrograman pascal
+            
+            Program Hello;
+        Uses Crt;
+        Begin
+            ClrScr;
+            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
+        End
